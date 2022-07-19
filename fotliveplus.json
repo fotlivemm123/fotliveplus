@@ -34,7 +34,7 @@
             "teams" : "Switzerland Vs Netherlands",
             "hteam" : "Switzerland",
             "ateam" : "Netherlands",
-            "hotmat":"yes",
+            "hotmat":"no",
             "link":[
                 {
                     "type": "720 HD",
