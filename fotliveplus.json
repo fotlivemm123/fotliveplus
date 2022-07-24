@@ -33,7 +33,8 @@
             "teams" : "Feyenoord Vs Lyon",
             "hteam" : "Feyenoord",
             "ateam" : "Lyon",
-            "link":[
+            "hotmat":"no",
+ "link":[
                 {
                     "type": "480 SD",
                 "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
