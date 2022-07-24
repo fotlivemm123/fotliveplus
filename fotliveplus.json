@@ -4,56 +4,6 @@
            "league": "Club Friendly",
             "date": "July 24",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10235_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9748_small.png",
-            "teams" : "Feyenoord Vs Lyon",
-            "hteam" : "Feyenoord",
-            "ateam" : "Lyon",
-            "hotmat":"no",
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Club Friendly",
-            "date": "July 24",
-            "time": "(11:15) PM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/7842_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879_small.png",
-            "teams" : "Estoril Vs Fulham",
-            "hteam" : "Estoril",
-            "ateam" : "Fulham",
-           "hotmat":"no",
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         },
-{
-           "league": "Club Friendly",
-            "date": "July 24",
-            "time": "(11:30) PM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9837_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10205_small.png",
             "teams" : "Reims Vs Villarreal",
@@ -63,15 +13,15 @@
             "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may4/chunklist.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may4/chunklist.m3u8"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://179720687.global.cdnfastest.com/live/may4/chunklist.m3u8"
                 }
             ]
          },
