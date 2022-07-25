@@ -14,11 +14,6 @@
                 {
                     "type": "MAN U TV",
                 "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
-                },
-{
-                    "type": "Barcelona TV",
-                "livelink":"http://93.152.174.144:4000/play/barcatv/89535124.m3u8"
-         
                 }
                 
             ]
