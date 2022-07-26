@@ -3,9 +3,9 @@
 {
            "league": "MAN U",
             "date": "TV Channel",
-            "time": "wait",
-            "himg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
-            "aimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKh12j2lT6NtteO_RalxDNMemct8o1KxyGgr61rGYxZ2PJvl3x7h6XaCA&s=10",
+            "time": "live",
+            "himg": "https://i.postimg.cc/WzwWVM5P/IMG-20220724-140020-699.jpg",
+            "aimg": "https://i.postimg.cc/WzwWVM5P/IMG-20220724-140020-699.jpg",
             "teams" : "Man United TV",
             "hteam" : "MAN U",
             "ateam" : "TV",
