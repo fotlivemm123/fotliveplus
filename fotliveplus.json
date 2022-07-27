@@ -30,10 +30,7 @@
             "ateam" : "Juventus",
             "hotmat":"yes",
  "link":[
-{
-                    "type": "480 SD1",
-                "livelink":"http://27assia.com/hls/81.m3u8?md5=6Hx6fKpUQDTz_h83sQojBA&expires=1658888280"
- },
+
 {
                     "type": "720 HD1",
                 "livelink":"http://sghgjhrs-dqbedyf3bjasc0ce.z01.azurefd.net/live/NBA1/chunks.m3u8"
