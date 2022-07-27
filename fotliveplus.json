@@ -34,11 +34,17 @@
                     "type": "480 SD1",
                 "livelink":"http://27assia.com/hls/81.m3u8?md5=6Hx6fKpUQDTz_h83sQojBA&expires=1658888280"
  },
+{
+                    "type": "720 HD1",
+                "livelink":"http://sghgjhrs-dqbedyf3bjasc0ce.z01.azurefd.net/live/NBA1/chunks.m3u8"
+         
+                }
                 
                 {
                     "type": "480 SD2",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1658902518-0-0-ec7599477dc19357368939ad44688d42"
                 },
+
                 
                 {
                     "type": "720 HD2",
