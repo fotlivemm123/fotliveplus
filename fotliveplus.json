@@ -68,31 +68,7 @@
                 }
             ]
          },
-{
-           "league": "Club Friendly",
-            "date": "July 27",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9830_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9851_small.png",
-            "teams" : "Nantes Vs Rennes",
-            "hteam" : "Nantes",
-            "ateam" : "Rennes",
-            "hotmat":"no",
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1658955259-0-0-d084acc4653ef330e70e164b6b7598df"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1658955259-0-0-d084acc4653ef330e70e164b6b7598df"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-112310.m3u8?auth_key=1658955259-0-0-d084acc4653ef330e70e164b6b7598df"
-                }
-            ]
-         },
+
 {
            "league": "Club Friendly",
             "date": "July 27",
@@ -129,10 +105,7 @@
             "ateam" : "AC Milan",
             "hotmat":"yes",
  "link":[
-                {
-                    "type": "HD",
-                "livelink":"https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/B4DF7411EF2D38AD98B7D9FA9612B9753F214EFA/index.m3u8"
-                },
+                
                 {
                     "type": "SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
