@@ -118,7 +118,7 @@
 {
            "league": "UEFA Women Euro Semi Final",
             "date": "July 28",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6325_small.png",
             "teams" : "Germany Vs France",
@@ -126,17 +126,14 @@
             "ateam" : "France",
             "hotmat":"no",
  "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
+                
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62e17afc79b990001c29ce53/62e17afc79b990001c29ce53.m3u8"
                 }
             ]
          }
