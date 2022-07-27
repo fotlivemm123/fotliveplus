@@ -104,10 +104,7 @@
             "ateam" : "Monaco",
             "hotmat":"no",
  "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"http://191.96.100.144:8030/T-Sports11/index.m3u8"
-                },
+                
                 {
                     "type": "320 SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
