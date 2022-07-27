@@ -19,57 +19,104 @@
             ]
          },
 
-
-
-           
-              
-            
-         
 {
            "league": "Club Friendly",
-            "date": "July 28",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9829_small.png",
-            "teams" : "Southampton Vs Monaco",
-            "hteam" : "Southampton",
-            "ateam" : "Monaco",
-            "hotmat":"no",
+            "date": "July 30",
+            "time": "(1:30) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
+            "teams" : "Udinese Vs Chelsea",
+            "hteam" : "Udinese",
+            "ateam" : "Chelsea",
+            "hotmat":"yes",
  "link":[
-                
                 {
-                    "type": "320 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
-                }
-                
-            ]
-         },
-{
-           "league": "UEFA Women Euro Semi Final",
-            "date": "July 28",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5812_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/6325_small.png",
-            "teams" : "Germany Vs France",
-            "hteam" : "Germany",
-            "ateam" : "France",
-            "hotmat":"no",
- "link":[
-{
-                    "type": "HD1",
-                "livelink":"http://144.126.137.157/espn2.m3u8"
-         
+                    "type": "480 SD",
+                "livelink":"0"
                 },
-                
                 {
                     "type": "320 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/chunklist.m3u8"
+                "livelink":"0"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62e17afc79b990001c29ce53/62e17afc79b990001c29ce53.m3u8"
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 30",
+            "time": "(6:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9825_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8302_small.png",
+            "teams" : "Arsenal Vs Sevilla",
+            "hteam" : "Arsenal",
+            "ateam" : "Sevilla",
+            "hotmat":"yes",
+ "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly",
+            "date": "July 30",
+            "time": "(6:15) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9906_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260_small.png",
+            "teams" : "AT Madrid Vs Man United",
+            "hteam" : "AT Madrid",
+            "ateam" : "Man United",
+            "hotmat":"yes",
+ "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "COMMUNITY SHIELD - FINAL",
+            "date": "July 30",
+            "time": "(10:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456_small.png",
+            "teams" : "Liverpool Vs Man City",
+            "hteam" : "Liverpool",
+            "ateam" : "Man City",
+            "hotmat":"yes",
+ "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
                 }
             ]
          }
-
 ]
