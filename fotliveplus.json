@@ -123,6 +123,11 @@
             "ateam" : "France",
             "hotmat":"no",
  "link":[
+{
+                    "type": "HD1",
+                "livelink":"http://144.126.137.157/espn2.m3u8"
+         
+                }
                 
                 {
                     "type": "320 SD",
