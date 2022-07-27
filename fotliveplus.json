@@ -30,16 +30,24 @@
             "ateam" : "Juventus",
             "hotmat":"yes",
  "link":[
+{
+                    "type": "480 SD1",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/Cp8FtC9XErcPzyZF0dO90c5pyaduM32GIKHRA1aysjhqYGjP4h8O5dlFivDFlnkHZ8FemLYekUnJeuWmIwvNYkIRz57IoYOGjZo-_IKDHxX8CejJVOu6OKAiWzfKt9-hQhOMk__AKzQVyaMsE25CSpqFKbu1GA4I3Q_66dUhr9614vlpW5M66OwBwr2sBO0q9kPSyfvG91Mw7A9pUzfOw--m3ZMQLkHDxm-ORzDtKdAr-6aaDurD21QRJrMEKZZIOI7sOZXoy4RM6xsYSCLWoezU2egFlmtWqW6ovD5mONtgaPACWf5_lSp9l78wjgyO4pgwpPE8jLvGkCS8ZvrifnAzTuakzPKfX63biXqbaORkAQZPv23iojihFJ8E78Q0UvFE3SFsn3CQfQ3QjtTKLYxieXA7ZXRcQkT7ertV5HONjOBjWznTqbIwU1xKfbHFqd7q_4pCD2gMY2CQDJnXnm5dCtKOA-r-iXJoKgfK6txA7Gw-DRV0vfrCe36dOtIdo3SygOpTwKW9VtvGupfe2JpWIrLwuzj7RH0FdndQROnG1dH1rUOMTCH3A4I03nMf352oTyc6fSjQeyNNW2CKm99qFHqx4yjtvSjzgQ5XNn2toTYoD-6oKc9vd19r1oYB_jCrp_pI6oZ_wzuwOM_7Rr-mvZx4sd3PpGlSYJ8gjuivziYlePJAgnldmZh1HLgotxCl-6COb6C3Bbiy3HUkaAfKcPB2YQ2sfhU9GvEQVPtp3lKshea4DXGE1bj46Ih4dUgaL2tRdvN-ZqftLJehnt1ACkYIAQmmWe2GlxL96ApiM7OKS3um-dDkpSQwA3RjXDLVjakp4kq64ONgZmxawPop6e6BnfJ8fc3ZFKgf-CZ81ZC7onlti4GTqlFN7zJeOVQaDM4ex_RXhCe2YPytmSABKglldS13ZXN0LTIwpQQ.m3u8"
+                },
                 {
-                    "type": "480 SD",
+                    "type": "360SD",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/Cp8FcwkI3cchnazqDxPlyjco9-pHfWABvQOq-1H5qpF14tlNXgRuEfiq1GgYriA0qQo58JQMMsNwIzI4ru-YWE4ht6Xl3rG_Upx96xLMMoxYwUBT8Ei0jrnxdO5RxJF-HOrzV5h2Pp_5rg4Nfp2wktqEDeRwJ0nzyyZT4pULVrL2d4v8dZNBTQQmSQGpBv-ZpJlUjU0CvUygqptoza7HI20zTcVfno8jNmUmUBl7eulnizSkmPxTQNZFr5OwIyJpHWWgaslTnpyEi0pll49299TASrjGNsHJyfe2DvLz_TxrLgw4w_hYLpWMcEsO4Sr-wnnTJbRa7ay3c2brmhQ6cKtL8EOgyhMFGv5mYOiUEv_-AMdgZcYSSwqgllmKsEgPjESuXg5PYURUIZ9dewqTlg8csSdpfxWaBql3kp1P6E2w1LNHJZqmrK2lBxnAPPW4PUbsr70hSCINGtKlLA6Koy24YCo5K6vitu-K6lcyhwQpYCBxEyINRDQ8XQVATSj9QTbqgB-cLW9J_IlwuHGLMVVHPy1J2nSg47CfNWunt3nAh90tFl9bLIHl9HCNJ1uLBqel86bI3stXDA_JE13SbG9ZIgoR94NA699KL_9xEZPNzpSnUcMzymkO8sI5IlcClrvUeAE9wxhibZpc7mUu2CMOMFwb4lK3sK8-ad2XyAbSK6EhWUzHM82nXn70aA7YrrPreQaTdDninC36EHfbNpbia_fg-tkpvygpfn_Ez2j67z-titOJ3wAkuui8AYitOZQk963WSAwEv51bgsV0D7G-81D_zK9qlOVnxuWbvkyHyF93QkaqEVeGaGh37Cf3WnP1JiIeEtHLN_NWkOIlND2Mj-TzrbExhc3v15GhO3WsSSHGaMlhZxuIhKQiXnXiyKgaDDZFPFSGEXdE6M4NkyABKglldS13ZXN0LTIwpQQ.m3u8"
+                },
+                {
+                    "type": "480 SD2",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1658902518-0-0-ec7599477dc19357368939ad44688d42"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1658902518-0-0-ec7599477dc19357368939ad44688d42"
+                    "type": "720 HD1",
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/Cp8F_83eSmyVitSnUIcMqpTCgBm7XD9aKyDCyueJhflw938dLV6ECBEM2VsXqhgHwUxBAQVOeafAdTBcEX9lq_lk_DIbtopZEwXVL_wv62-2jiLcCnZPxlOuPvjWm-9EVELGtbpXZv5p0eFwmmfOGmnjc6d1RLub2DmMLWZmLGINykhcYsN4t8rEMCZ1wPLKugwpZXQdj9sggHUQiM4uEoMSQvFDYPCyso76oGMZ4JGeBsz67HkL3BerUvk4BsOajAIGp-sZeAvcDb_jK1kgDl3A9rP23dZMxN8hjGMA7RXmdVSZAUuJy1QMosxL48CjdYb5XhApGb7pVmJAOEroq6vosrUREGAML872LZAEtUgYDk3K3_mp4Pt8D776wNv5sXMmwrRGzCLYYU-KpX3Kp2J0HxVI_2TQGDRtpbhDungO2OP71t5P6LzzDks7w4OvC86IDy00YO7ZfZ4LpGAfaTH_I4zZwjYFlsDhbKog4AdlMDJLoyfGtH919uNvwdvIVF1blOY-bKjHCVIkOXrp-jqQnE6ENQvpIuCpSby5iglo193h-ZEn30-DpyxuJd6QLZOEAo-fcXqsqyvlWUsEisXtwbQXEXQsyGxk-zaupTpkZ7lD4O5wGI8ajSKrTXaV0huukDvcNfBk2bZEDa5FKj6bvHU7-2XPG3beTumH5QT8_YwTVZ7dKl0AFKPfaAee36fvxhtRFxGt5NthIkMb-_vJ_Xtitr_xh3fqIqEE0-WlC_ql9CjJmVFjDITCDBOyj9Ta_vvW4hu1cQ8s7FxqNstcrrrr6yMRMtVZAMWLgdnVYGKknUGz0aMw7Tw0iNO2oxFqNdE3WlrWJLwcfCRRV94h9-L6WR6b_pzwAUCu7nIfBWdCTrt70xLPmf0-cea5xdwaDBpr5dy1kSLF9E5xzyABKglldS13ZXN0LTIwpQQ.m3u8"
                 },
                 {
-                    "type": "720 HD",
+                    "type": "720 HD2",
                 "livelink":"https://pullalilive.livnvess.com/live/stream-121256.m3u8?auth_key=1658902518-0-0-ec7599477dc19357368939ad44688d42"
                 }
             ]
