@@ -65,11 +65,11 @@
  "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"http://hhdrhftj-c2g7epcugxcqa2hz.z01.azurefd.net/live/NBA1/chunks.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"http://27assia.com/hls/82.m3u8?md5=aGiilmB5ATQ9WI4FX9x10w&expires=1658890411"
                 },
                 {
                     "type": "720 HD",
