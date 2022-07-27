@@ -121,7 +121,7 @@
 {
            "league": "Club Friendly",
             "date": "July 27",
-            "time": "(11:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/1954_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8564_small.png",
             "teams" : "Wolfsberger AC Vs AC Milan",
@@ -130,16 +130,16 @@
             "hotmat":"yes",
  "link":[
                 {
-                    "type": "480 SD",
-                "livelink":"0"
+                    "type": "HD",
+                "livelink":"https://sportitaliaamd.akamaized.net/video_0/Sportitalia/hls/B4DF7411EF2D38AD98B7D9FA9612B9753F214EFA/index.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
                 },
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62e16182e31689001c814ccc/62e16182e31689001c814ccc.m3u8"
                 }
             ]
          },
