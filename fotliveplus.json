@@ -84,6 +84,56 @@
             ]
          },
 {
+           "league": "DFB Pokal",
+            "date": "NOW",
+            "time": "live",
+            "himg": "https://api.sofascore.app/api/v1/team/2536/image",
+            "aimg": "https://api.sofascore.app/api/v1/team/2673/image",
+            "teams" : "TSV 1860 München Vs Borussia Dortmund",
+            "hteam" : "TSV 1860 München",
+            "ateam" : "Borussia Dortmund",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
+                },
+                {
+                    "type": "Wait",
+                "livelink":"0"
+                },
+                {
+                    "type": "FH",
+                "livelink":"https://livestream.socialstreaming.tv/live/62e420c42fd5da001c0b598b/62e420c42fd5da001c0b598b.m3u8"
+                }
+            ]
+         },
+{
+           "league": "Club Friendly Games",
+            "date": "Now",
+            "time": "Wait",
+            "himg": "https://api.sofascore.app/api/v1/team/48/image",
+            "aimg": "https://api.sofascore.app/api/v1/team/3305/image",
+            "teams" : "Everton Vs Dynamo Kyiv",
+            "hteam" : "Everton",
+            "ateam" : "Dynamo Kyiv",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
            "league": "Club Friendly",
             "date": "July 30",
             "time": "(6:00) PM",
