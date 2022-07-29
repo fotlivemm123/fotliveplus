@@ -61,7 +61,7 @@
 {
            "league": "Club Friendly",
             "date": "July 30",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8600_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455_small.png",
             "teams" : "Udinese Vs Chelsea",
@@ -71,15 +71,15 @@
  "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
-                    "type": "320 SD",
-                "livelink":"0"
+                    "type": "720HD",
+                "livelink":"https://video-weaver.arn03.hls.ttvnw.net/v1/playlist/CpkE_tdEErd_yT3Ap-ZhFsuAOHZMPlZ4VErW4AiDiMv2r5P8gvUNwAfyE349VA-CJM9khWpnHvP_RPIcJeeZDeZrIj1CzR6Tgj1rJrDwRWSM1uD6nhHKgZLWejP-rbujZVXCC6cdpcST-T0LO9a0_cp4bRFwk3QDKbGciw5j7LwuVa7QaTDM9MlFSwmO2F3H3tMvYlA5Z4RmxnZcrukZ0GjMFKrCE0PNsmFaMQkD4Mso_n-HVPq5CpVmFW_HUD1iNQMpYUoh2tYdKaExGTNl8FRg6naaKepROKrhU8y0_p7S4MhcRGFCkpUi0aKDhRffVSk3_7YyOtBqhhSlvLWUUR-Qg4NA3Muc5O_iZErsGeSzu8ybcBwa-86a4HGNHG9_SF5m6MwW8UsC2vL8zuXNfZa1CE9I63TYAc_83l3jEJ_I4kVMlqff3CXv5LSCwV7jOFI_2KCJpT9Mz9F-a6sEpx0XxxIiQAOhmRRxHyslfUTzW9sP7henYkABdVl6hDYK9n223MehNsSNUNB3hcAlPalLlKb_cwlimL0fcK821dp41x61yf--KqR7Ih4e5HdBLsF2Uiymwtm7Xnsg9DsDKW1hWVUF1xFBA18SRuq6G3f5NdigCmjw29Garw6LGlIkLBHroubOMsFixCtt6yOe7LuhU3ALmFvfGMTXbmvlo5kPZmLHjFWRzrJPR2yB7-BUOj4B_gBMwjacdLRgGgxa6cQKDI08lz2k0qwgASoJZXUtd2VzdC0yMKcE.m3u8"
                 },
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "1080 FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62e422ad9ad831001c11884c/62e422ad9ad831001c11884c.m3u8"
                 }
             ]
          },
