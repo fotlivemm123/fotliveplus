@@ -30,6 +30,14 @@
             "ateam" : "Man City",
             "hotmat":"yes",
  "link":[
+{
+                    "type": "320 SD",
+                "livelink":"https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/PKP-yyOqVQjEDMQppaQa4Wml-DU-JDmJYNq0WCEjTj-Y7i0sGt6zET5F6c-QwCLvNLNPgnizXCH48riLul0_Pw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
+                },
+                {
+                    "type": "240SD",
+                "livelink":"https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/PKP-yyOqVQjEDMQppaQa4Wml-DU-JDmJYNq0WCEjTj-Y7i0sGt6zET5F6c-QwCLvNLNPgnizXCH48riLul0_Pw/transcode/eu-west-3/periscope-replay-direct-prod-eu-west-3-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/tw_dynamic_highlatency.m3u8?type=live"
+                },
 
                 {
                     "type": "480 SD",
