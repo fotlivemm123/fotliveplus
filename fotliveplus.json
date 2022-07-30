@@ -30,24 +30,12 @@
             "ateam" : "Man City",
             "hotmat":"yes",
  "link":[
-{
-                    "type": "SD",
-                "livelink":"https://16c864785a7a.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.727392492577.channel.eFvZvEYzpfeG.m3u8"
-         
-                },
+
                 {
                     "type": "480 SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
-                {
-                    "type": "720SD",
-                "livelink":"https://dbmt02l7z5ff1.cloudfront.net/stream/NDY0Mw==/1080p.m3u8"
-                },
-{
-                    "type": "HD",
-                "livelink":"https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1659214995/ei/MkjlYsK9OMuI-gbnzpAo/ip/5.62.63.93/id/2gyJV1BIuLE.1/itag/91/source/yt_liv"
-         
-                },
+                
                 {
                     "type": "F HD",
                 "livelink":"https://livestream.socialstreaming.tv/live/62e545533b915a001d1eee26/62e545533b915a001d1eee26.m3u8"
