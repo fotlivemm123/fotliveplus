@@ -40,6 +40,11 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://livestream.socialstreaming.tv/live/62e5ad096b2bcd001dd2938e/62e5ad096b2bcd001dd2938e.m3u8"
+                },
+
+                {
+                    "type": "720 HD",
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H8138780.m3u8?txSecret=ef2aa8834e96cae7a4917d0046a25c38&txTime=62E6CC89&_s=stream"
                 }
             ]
          },
