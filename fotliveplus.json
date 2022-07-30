@@ -43,6 +43,14 @@
                 "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_240p_chunks.m3u8"
                 },
 {
+                    "type": "720 HD",
+                "livelink":"https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_360p_chunks.m3u8"
+                },
+                {
+                    "type": "HD",
+                "livelink":"https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1659203237/ei/RRrlYoOHH8nF1gKym7bADA/ip/5.62.63.95/id/gy-VMU8A5I8.1/source/yt_live_broad"
+                },
+{
                     "type": "1080 HD1",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62e50b7f7d041e001c2400f2/62e50b7f7d041e001c2400f2.m3u8"
          
@@ -73,6 +81,11 @@
                 "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
+{
+                    "type": "720 HD",
+                "livelink":"http://sdkjlkjsdfsdf.azureedge.net/stream/NDY0OA==/1080p.m3u8"
+                },
+                
                 {
                     "type": "FHD1",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62e50fcd64709d001ca3cc34/62e50fcd64709d001ca3cc34.m3u8"
