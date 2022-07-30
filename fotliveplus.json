@@ -45,6 +45,10 @@
                 {
                     "type": "720 HD",
                 "livelink":"https://hls1.yuanzhi.org.cn/live/H8138780.m3u8?txSecret=ef2aa8834e96cae7a4917d0046a25c38&txTime=62E6CC89&_s=stream"
+                },
+{
+                    "type": "Full HD",
+                "livelink":"https://live-ak.vimeocdn.com/exp=1659226905~acl=%2Fe3a734e2-5ed9-4cb2-86b9-d304f028d9e2%2F%2A~hmac=8f4085d911bd2fcd86d02dea989e853644b01a32b45eb2b6de4826088af530e3/e3a734e2-5ed9-4cb2-86b9-d304f028d9e2/chunklist_b6256000.m3u8?max_segments=10&min_seconds=30"
                 }
             ]
          },
