@@ -18,58 +18,10 @@
                 
             ]
          },
-
 {
            "league": "Club Friendly",
             "date": "July 31",
             "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
-            "teams" : "Roma Vs Tottenham",
-            "hteam" : "Roma",
-            "ateam" : "Tottenham",
-            "hotmat":"yes",
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8"
-                },
-                {
-                    "type": "1080FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62e56ba018b38d001f6b5b7a/62e56ba018b38d001f6b5b7a.m3u8"
-                },
-                {
-                    "type": "720HD",
-                "livelink":"https://video-weaver.sin04.hls.live-video.net/v1/playlist/CpYFMdnG8o1nDeUWjLIr0Jvz1IoeCPgahyELoHycNS7-6TUH2do8NnqZVFuOLCfpHK1fnrgwZIKCh7snJHGfW4kgrFKUMk2h5HrSBpplA2BUYTaRX_3zL1Qv7uVAEg8TApPSeWEjSpviplmDrTnE6OiS_5WlgDXd_XmjF4FLKIMusLTLiUBlW8HYSmcPjS9C1CwyspbNHLiNCfwKnM2gv_0oEMG4MlePpRvPsZT719AeTy2nL4BETJ0RNJG_jyevxRxAz1S2P5sVFFubEIvQ70IFyX_6XIoGAJ5-6cHU8wSuD33Z9YVsqF2sn9w-rrcFngly3b1YyVstTsbeq9abtPbIHVB-ULQRr0oPJileesJAnCa9RAf4oG89zijYLC2QyBJ_fX2xfAwV8YbmWt9Omw9JqvfXCXl_sZCsu_1SF9SfTPJTS3DRIFq30uX7metolSO_4qvdyrmnqPNxWlaDyR_QhzG4OKZbb48SpwXCeFVg5e3TMZeq-wgLVccCfreEGHS3lb_QREcmRN-1WJasPmQ87RriM5x0mY08NusCkhC68RSnmCl3IbjOdvHbOK0ukokS_AT8RUIjblYstI8aBOTXAW7iUpHwlKs3Quzu57C4W7IzFDfZif0Egs3L66nvydHBTMVSdukwxR1u6q3WD4r3C2JBxjdNvgxNbEAr9kJ3UMx3MLi-sB5wJR_kjZ_umuFnPnaFzb5npZwbLPH-4Vq2yzW7cGc05Di0ZWOdHuIDYwp-2EgyFjJLr7tYJcA3ChZd_oQmRgq7PLmBYR8dGOU-YAToI9KEwNAqg03_lfnelQS2VFVSsCNQ6LAgicr8pnEJXhUL64YHfw9SmVLJb4jAdz_nS9UdYzj6xVP1y0IjTBJp0yosVLgaDKMTF_RE24rT18ejGCABKglldS13ZXN0LTIwqAQ.m3u8"
-                }
-            ]
-         },
-{
-           "league": "Super Cup Final",
-            "date": "July 31",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9823_small.png",
-            "teams" : "RB Leipzig Vs Bayern",
-            "hteam" : "RB Leipzig",
-            "ateam" : "Bayern",
-            "hotmat":"yes",
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62e565a7f68d4a001cd93942/62e565a7f68d4a001cd93942.m3u8"
-                
-                }
-            ]
-         },
-{
-           "league": "Club Friendly",
-            "date": "July 31",
-            "time": "(5:30) AM",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/6514_small.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8634_small.png",
             "teams" : "New York Red Bull Vs Barcelona",
@@ -79,15 +31,15 @@
  "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
                     "type": "320 SD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://livestream.socialstreaming.tv/live/62e5ad096b2bcd001dd2938e/62e5ad096b2bcd001dd2938e.m3u8"
                 }
             ]
          },
