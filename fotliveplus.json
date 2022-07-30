@@ -94,6 +94,31 @@
             ]
          },
 {
+           "league": "Club Friendly",
+            "date": "July 31",
+            "time": "(00:45) AM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8686_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+            "teams" : "Roma Vs Tottenham",
+            "hteam" : "Roma",
+            "ateam" : "Tottenham",
+            "hotmat":"yes",
+ "link":[
+                {
+                    "type": "480 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320 SD",
+                "livelink":"0"
+                },
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
            "league": "Super Cup Final",
             "date": "July 31",
             "time": "(1:00) AM",
