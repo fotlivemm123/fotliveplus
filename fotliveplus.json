@@ -85,6 +85,176 @@
                 "livelink":"0"
                 }
             ]
+         },
+
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(6:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
+            "teams" : "Fulham Vs Liverpool",
+            "hteam" : "Fulham",
+            "ateam" : "Liverpool",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(8:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8466.png",
+            "teams" : "Tottenham Vs Southampton",
+            "hteam" : "Tottenham",
+            "ateam" : "Southampton",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 6",
+            "time": "(11:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
+            "teams" : "Everton Vs Chelsea",
+            "hteam" : "Everton",
+            "ateam" : "Chelsea",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         }
+{
+           "league": "Bundesliga",
+            "date": "August 6",
+            "time": "(11:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9789.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8178.png",
+            "teams" : "Dortmund Vs Leverkusen",
+            "hteam" : "Dortmund",
+            "ateam" : "Leverkusen",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 7",
+            "time": "(7:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
+            "teams" : "Man U Vs Brighton",
+            "hteam" : "Man U",
+            "ateam" : "Brighton",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 7",
+            "time": "(7:30) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8197.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9937.png",
+            "teams" : "Leicester Vs Brentford",
+            "hteam" : "Leicester",
+            "ateam" : "Brentford",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
+         },
+{
+           "league": "Premier League",
+            "date": "August 7",
+            "time": "(10:00) PM",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
+            "teams" : "West Ham Vs Man City",
+            "hteam" : "West Ham",
+            "ateam" : "Man City",
+            "link":[
+                {
+                    "type": "720 HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "480HD",
+                "livelink":"0"
+                },
+                {
+                    "type": "320SD",
+                "livelink":"0"
+                }
+            ]
          }
 ]
 
