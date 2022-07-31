@@ -49,7 +49,11 @@
                 "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
          
                 },
-
+{
+                    "type": "720 HD",
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8"
+         
+                },
                 {
                     "type": "VIETNAM FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62e68e6ebf3044001cf3dbb2/62e68e6ebf3044001cf3dbb2.m3u8"
