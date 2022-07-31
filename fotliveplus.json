@@ -44,7 +44,8 @@
             "teams" : "Frankfurt Vs Bayern",
             "hteam" : "Frankfurt",
             "ateam" : "Bayern",
-            "link":[
+               "hotmat":"yes",
+"link":[
                 {
                     "type": "720 HD",
                 "livelink":"0"
@@ -69,7 +70,8 @@
             "teams" : "Crystal Palace Vs Arsenal",
             "hteam" : "Crystal Palace",
             "ateam" : "Arsenal",
-            "link":[
+               "hotmat":"yes",
+"link":[
                 {
                     "type": "720 HD",
                 "livelink":"0"
