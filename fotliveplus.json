@@ -61,7 +61,7 @@
  },
 {
                     "type": "720 HD",
-                "livelink":"https://cdnvideo.webvideocore.net/enc4_lnqcnkplijmum96ouse611pju6jvbtaq0lnrc4d6fne1sqv4r3085e8bass653unn3j043hbhqs25qd6u5s91tk7uef7eqhvsbbf4etm6l171kbua9tdat91d4e7aed03/index.m3u8"
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H628934.m3u8?txSecret=0dc4c5e6c7cff1976872339fa4a3396a&txTime=62EE9F0B&_s=stream"
          
                 }
                 
@@ -90,7 +90,18 @@
                 {
                     "type": "English FHD",
                 "livelink":"http://d1zjrdezzwoal0.cloudfront.net/stream/NDY2MA==/1080p.m3u8"
+                },
+{
+                    "type": "720 HD",
+                "livelink":"http://wsxsd.azureedge.net/hls/usa/chunks.m3u8"
+         
+                },
+{
+                    "type": "720 HD",
+                "livelink":"https://venus.meta-scores.com/eba027cdab/eba027cdab@720p.m3u8"
+         
                 }
+
             ]
          },
 
