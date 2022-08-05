@@ -49,11 +49,11 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_3/chunklist.m3u8"
                 },
                 {
                     "type": "480HD",
-                "livelink":"0"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may9/chunklist.m3u8"
                 },
                 {
                     "type": "320SD",
@@ -75,7 +75,7 @@
 "link":[
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"http://38.127.211.18/live/c2eds/RushHD/HLS/index.m3u8"
                 },
                 {
                     "type": "480 HD",
@@ -83,7 +83,7 @@
                 },
                 {
                     "type": "320SD",
-                "livelink":"0"
+                "livelink":"http://myott.top/stream/1VGPHYLZTH/235.m3u8"
                 }
             ]
          },
