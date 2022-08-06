@@ -48,7 +48,11 @@
             "ateam" : "Liverpool",
             "hotmat":"yes",
 "link":[
-                
+                {
+                    "type": "SD 1",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1659805580-0-0-3a0055b957039a90e8745dba101c339c"
+         
+                },
                 {
                     "type": "480HD",
                 "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CpMFcn9T1xDImL8rXgKgs242ewBFqIUOKBBFCIw2nB0wCcnS9GLZ3prvOm_haxq3-QDLeZ7YAuVZ_uFaBBbS8gfIYfOW5pNHYras9CGUqKGd-fgIsS9VsK9ZU9YmluoevyPC2H-VsFH0omGjORcZC41dAHuXmTQ6KT32sBgFGKAXWHOY2zgBviDEipAX4ru2qcSnjMmRvmpEsTSR9aOY8IJ7aY4wgwrB_rxUdrXiyA60J62wIJcXjqOyz6WTHVQ7Ns-cAP_RIysNYA4UN0MQnTZQ0qLUtF_jFy8sL3bxmPWVnxyP0mVTCSikMTvLhDprmr5UIXNSZSMCObvsDOLZ90Tw35fUrx3PEv4AujhmzZMcTvJ6nifsI88YGyviVnV6x9DxKJVrcqi62YE19WYlNJ2epObKWpJxL1KJItSlqveJihpiAtRrrNClJ5ReMfUt_H1Gab695w4NjKYNs6_YHvt9kkiXi-WPUw68RJXLrfai-oaftxVwLmsBlYLl_yWckXLgImyIhlbycxjb9VbVEzE-utxSeYmYiw8Kv_7X3ucyFH_NFIbmLgSDrNioJhuOuAMAVT5RDpWnAQZPIw7ju0mJbK_oabU8u7sgrbAFyG8wccm5DTDfnpd3LvcgGtPQghgdkh__Kyl69IEOl20Pfa6f9ImhAtKc7NW8L1m7sX9NCZTb-gwivaf1RBnS67wN66Klor5iY1ZsZt_oX6_K3xEDIiXrDS_VvHu-Z9yW4iAVjcVH4SiQA-IkDyNK4umHO97v0FKUbRFq3RwS4Sl-m_UGIE7v8xnt73_0FQphz5Vo_-IvG98uADlctlioMbBaqqDuDjszKBC3A43LUIY_LYsVbtKb9sDJ4GnYVyylgG9l8fXwLZIaDK-AZYDpNlU5DUBk9CABKgl1cy1lYXN0LTEw5AI.m3u8"
