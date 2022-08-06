@@ -54,17 +54,22 @@
          
                 },
                 {
-                    "type": "480HD",
+                    "type": "VIETNAM SD",
                 "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
 
  },
                 {
-                    "type": "BT Sport FHD",
+                    "type": "VIETNAM FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62ee4d7b9d4cdd001c698889/62ee4d7b9d4cdd001c698889.m3u8"
 },
 {
+                    "type": "CCTV",
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd3980.m3u8"
+         
+                },
+{
                     "type": "1080 FHD",
-                "livelink":"https://d3u1me63k76klk.cloudfront.net/hls/live/chunks.m3u8"
+                "livelink":"https://hls1.yuanzhi.org.cn/live/H616510.m3u8?txSecret=9e8881c947dce2fca6aac216e5c6ddc8&txTime=62EF959C&_s=stream"
    }
             ]
          },
