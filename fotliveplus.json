@@ -43,7 +43,7 @@
 {
            "league": "Premier League",
             "date": "August 6",
-            "time": "(11:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8455.png",
             "teams" : "Everton Vs Chelsea",
@@ -52,12 +52,12 @@
             "hotmat":"yes",
 "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "VIETNAM SD",
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62ee8f3c919bc6001c176bb1/62ee8f3c919bc6001c176bb1.m3u8"
                 },
                 {
                     "type": "320SD",
