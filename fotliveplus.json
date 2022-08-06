@@ -40,7 +40,7 @@
 {
        "league": "Premier League",
             "date": "August 6",
-            "time": "(8:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10203.png",
             "teams" : "Newcastle Vs Nottingham",
@@ -101,7 +101,7 @@
                 "livelink":"https://livestream.socialstreaming.tv/live/62ee6625bb9edd001da64950/62ee6625bb9edd001da64950.m3u8"
                 }
                 
-                }
+                
             ]
          },
 {
