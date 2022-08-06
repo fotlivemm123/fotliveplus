@@ -40,7 +40,7 @@
 {
            "league": "Premier League",
             "date": "August 6",
-            "time": "6:00",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
             "teams" : "Fulham Vs Liverpool",
@@ -48,22 +48,19 @@
             "ateam" : "Liverpool",
             "hotmat":"yes",
 "link":[
-                {
-                    "type": "SD",
-                "livelink":"https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ro3mKBPz5uofb5_0irEbfFDguF-RX4_PZ4VhLcirUEWE9fNPyQtbAxaOqESKuBr9ohTLznxyz_R5uFE408BmTA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18yMjRwMzBfMTAiLCJIZWlnaHQiOjIyNCwiS2JwcyI6MzAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjQwMH0.7bJSUVkCCWY9mtayJTkJOzF7SBt0W-fOgmaXO9-OjnM/tw_dynamic_highlatency.m3u8?type=live"
-                },
+                
                 {
                     "type": "480HD",
-                "livelink":"https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ro3mKBPz5uofb5_0irEbfFDguF-RX4_PZ4VhLcirUEWE9fNPyQtbAxaOqESKuBr9ohTLznxyz_R5uFE408BmTA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/tw_dynamic_highlatency.m3u8?type=live"
-                },
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqcFGt1t4QDsGNrlJtQWxDXhFizojn2pZs2kxFqS34YxXaZmL7B2talwu3xy8mieUC-v-Do0dKOcio-FvITuaOU9ku-CTEc3VqqUy41TIWCvGgx_-JNpT4wgDiyRC37DGTnYVGPKSwVnst5e2zS6b7nXvPdfgXRVxPTkSdIj92zyiR1K12t8AdITiiQ-7xrzM4SFRQn4-m2Zzof4PcKSCrnQW85lPQGxbM8M5y6WRRQDv1ILjCIZiBcZMRfsegjbPO0EnM2uAEAgS-x953vMQPwAxMrg70F12P8HoIVk3OLBbyZuAZboY7szLpANqZGHGpX-LyH6kFVudT6IFNbnPGRumNk7QKyGgRXCxQtxBrC520rnSTOjalu5x0lyC46-WrIFsly0JPHZ6s3mrI6L_IurwW9wkjlNlldogvIK33D0hEh5-YKoGg3VLuGs-lHE2OCE0C8WUhcECDxrG0T1N5QdLYW6kHO21NdVh_3S3EPBK88r6YDisU8WryYzSc1B80lEAJzbIbvCumLml-EaQ8LpisHc1ujhw-yvCSDrjHywz6Rhfb19nUuRdJqzuoW7FicLWcap-Vbvq_Sw05Y8Z8pSs-rbHdFLPMlQo6T7J-cq1l4I1nqIrAY9Osb_dMz_GPGVhBwNB_NvAaLvXEw0giqMj9e_DDo3Sf8XuM5nlWpc7MbtKkGx8qAT6-34y1ZxdVr67jMw1pkhwzVHbDzzYOBeYzp3U0g1mh7evOi1pYXkSMK3VOfhubTKHWffDQO1eNyXg6vMkLvDG3qBSYFVs_ijM5Xt4XUYDS1lIRZI-AvEM5LvS1P2-8_so_kupvwDqLXR7_JkolOhgfxb9KjAYYpSK82UsuFxxZmsezQe6VEsimk04sQHO6e3s_orT789LDIhSiSVdKALNRoMB7ZTGipa_jNtigInIAEqCXVzLWVhc3QtMjCtBA.m3u8"
+ },
                 {
                     "type": "320SD",
-                "livelink":"https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ro3mKBPz5uofb5_0irEbfFDguF-RX4_PZ4VhLcirUEWE9fNPyQtbAxaOqESKuBr9ohTLznxyz_R5uFE408BmTA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18zMjBwMzBfMTAiLCJIZWlnaHQiOjMyMCwiS2JwcyI6NjAwLCJUcmFuc2NvZGVBdWRpbyI6dHJ1ZSwiV2lkdGgiOjU2OH0.es_XpNv3J12hFXU4WrCwmH28GmToYAPDPdT_EjerHCU/tw_dynamic_highlatency.m3u8?type=live"
-                },
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqcFrngrmI0c1FUg8OjoJFIRVw7wOU9xoa9zzT3qN99vCndcMLyXPdh3RcxYNxXRz612XBaYNV0uCL3KrsnDB-0wUumD9UPxkbV2AuoQ0atq-PHjYzOYUk6WYdiJgIXS6kSDg2lS4IZ-400lvEsKo2B2ZYmWCFNQVyGVK6I1b5mt0qPNE3Kafq4iFwWdKT4KuKKizd1WYTE2qlmn3thuYiuCfMn8OmrmpNmp0ecOTNUWst-Z4XdhQ1YxE_P3ONEOsIKtjB7qh-DHnbQdz_EhM3DX2DXDkumHmpB0dxUDHBk5huTnh0dje-pT_4TUKF7iErOj6fvBeBaE5b8rdVvD-B61E9RvBPuND8-P9lxCqQdXw0ZPfYrcovlTG7u7nCOSWKZh9UExVHFCsYw3ZZGw7GdabB4sPrekOCwSfPzisXavq19qF9ov7uwZPLY2oKNnWkOQAJSWdZbX6DsPh-Oh2SHIJyWCW231FfWCO4C0k2bH3Fn8j-camWN3NZiXXjiVsD7__quocTTBzpCbk-tsm3WWfcPUNI6uQsWwEuFLAn9EZrGFfELmHNqySK7zFDWo0VVa0FxlZdYt8tZwZqXmUkdbsUuWPZlK6v4v7cyeDV3MyOhbwssUTTngFSpAya2JzUM59Aa52kekGWS24eflUven2Jx5HQVJSnbegbIZ14OGdr1wcQwspHgP1X0CW7t9bSEeaG4ETSwy1r5lBbwbt3awyL06uy7HvIsnsV9vRLFu9BGbG-lZoc4bwBT9NYxjauoUnZfGY-uq7l_ANBVq8uo5iNUGe1Q1pj_CQ_yjMCdYNE30PVMa5KturvQYR5RjT1wqNRR580ylErtfwzK-YvNoB2q6D5y2ImW95xMofsLOgvzaYMVVxBpv1ullzk4ilFJvr5GPXZ7LVxoMC114Ur0iQvMHq8HGIAEqCXVzLWVhc3QtMjCtBA.m3u8"
+         },
 {
                     "type": "720 HD",
-                "livelink":"https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/ro3mKBPz5uofb5_0irEbfFDguF-RX4_PZ4VhLcirUEWE9fNPyQtbAxaOqESKuBr9ohTLznxyz_R5uFE408BmTA/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/tw_dynamic_highlatency.m3u8?type=live"
-                }
+                "livelink":"https://video-weaver.sin01.hls.live-video.net/v1/playlist/CqcFw-DrRhFj_CUx3di2VzsN4tUKoYEmTCvja4cy56moVnSitOYTU-RGLc8sBbmlT0bLLeIFfc3pgjqeu9fcmneJcIvdekLtVwzQvuxytbm5zjdsJhpOkSFIo1Gec77NMYuoL2fAJMEJqL9Pa8KFB8yTG7hRqgKnBYFuzR9z4x8SbUe77dyxSOgI8bAQG4DYJvCYS1__hqmKhymdxMQGDFx02lshYz3W16yMyyZR090t696STGh_khoMg93gZZb0lbv8Fm5kV5zglxdLu0x02SfzUui-E9KpWzPem0Y32ZRNErOzJGT6YhrmHvhie91RzTWLTBgaw283qj6CnXnxMOa1w143ROoAoBTpmFDNwcfdvMAimwd3jqIsi9ERFMUTZ1ZkrALku3f14DQSQvdOwgWEPiHRLa1-Vn79YqifegmXiYsS0Vcv8gzTnNtUGMSm5y9BAunevFzbaNNttaXMCzZB899toifotHIqKjyT62zkjsf59DuWlN1FT2nTfcXLpRG-7Ab9FT6vOZHfbY17RJlJ2gF4x9Mcuc0ZD72JmCqKCuMJOLCWOZzkd4ow1Ng8of83XsmRXbTVm9CXMGCei4-TrE32LfUYR1FJuTLncY9PMi8s7UcRx6jS4cVKM552vTu73hUamdcCZIAYKLZeIkpwjBzbISBsh3QoY4NgmpSvuebVgRca7KgQqHJS4SVV-3Q7oeRoVC6QkZnicT1s_A6vkfvK63RY_78YPdSuWdfyik2eXKo_iG-MxtSgFxZtxM0z-FQUcYn9vaiaOYj2evsQ81VLv4mWOKvu9WKO4iu2Xkb2ZuGF3MUMnTkzPNOp6FWkbGF987DCinFlXuIJRBKxUYQs2RNxmrf5i82Vzwmhi_nDTms1dTbiY76bTg08tywaR4s9oxiBQhoMgqcxAwyY1hg-_dlyIAEqCXVzLWVhc3QtMjCtBA.m3u8"
+     }
             ]
          },
 {
