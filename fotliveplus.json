@@ -48,17 +48,14 @@
             "ateam" : "Nottingham",
             "hotmat":"no",
 "link":[
-                {
-                    "type": "720 HD",
-                "livelink":"https://prod-ec-eu-west-3.video.pscp.tv/Transcoding/v1/hls/PKP-yyOqVQjEDMQppaQa4Wml-DU-JDmJYNq0WCEjTj-Y7i0sGt6zET5F6c-QwCLvNLNPgnizXCH4"
-                },
+          
                 {
                     "type": "480HD",
-                "livelink":"http://d2p6l5d9wmbqoz.cloudfront.net/stream/NDY0Mw==/1080p.m3u8"
+                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
                 },
                 {
                     "type": "320SD",
-                "livelink":"http://asdsadasdasd.azureedge.net/stream/NDY0Mw==/1080p.m3u8"
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62ee68b1919bc6001c176b95/62ee68b1919bc6001c176b95.m3u8"
                 }
             ]
          },
