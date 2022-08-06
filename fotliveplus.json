@@ -59,10 +59,7 @@
                     "type": "VIETNAM FHD",
                 "livelink":"https://livestream.socialstreaming.tv/live/62ee8f3c919bc6001c176bb1/62ee8f3c919bc6001c176bb1.m3u8"
                 },
-                {
-                    "type": "English HD",
-                "livelink":"https://45507e4904e7.eu-central-1.playback.live-video.net/api/video/v1/eu-central-1.174422803327.channel.YFwmP5bvDQhA.m3u8"
- },
+                
 {
                     "type": "SKY sports main event FHD",
                 "livelink":"http://kaloss-e3hjhgf3hnagfmhy.z01.azurefd.net/stream/NDY3MA==/1080p.m3u8"
