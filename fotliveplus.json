@@ -71,11 +71,7 @@
                     "type": "1080 FHD",
                 "livelink":"https://hls1.yuanzhi.org.cn/live/H616510.m3u8?txSecret=9e8881c947dce2fca6aac216e5c6ddc8&txTime=62EF959C&_s=stream"
    },
-{
-                    "type": "SD",
-                "livelink":"https://video-weaver.lax03.hls.live-video.net/v1/playlist/CpAFYQENvyWQmktiYtrMOQTxytoT3QDUVST4xNbk_UL9iOBrQRqogu0_4jhwtlX_2fEDc9Ngg6MJnn8iC2R_PcZjeUf0EmT2kPVvLgZqaUl9HF-vefKs0wp7B1e78LWT3RHIiZEOGtaCzmxYFiCzHR_xkOB6caUcn7lPEIXhICOci17w6Ae-u7vu59f_Vd-JdzCrCVV8WG-EZ2bXNDJBNqOPaYyX5FwCCjG80xZL_Wig2cR9e2Zq8ePchOcvQH2WsYimWQXoHgJ7TGnXfvqa0ibHWXM9mEd_cPF7LCPxO_4WXkDdQMNN545UZYzylhtlaLBq-9ZLty4RDEQ332DzE4yazSdUalFALUL1UWUNMNNeybrr6oL8nWECL8SbzTyFJcAK2Rf9kSfkT88AKYTfIxfx5QAOTe8lyB2tVoQfsRqi9p9dhEG48vn1mks59GA2jJcCf1iu9g5bKvvL87rKVFXfC887UPhfsEe4JO4B_waN-Mj57FU2H-8TL-NMT5_muODwCAcwM3i9N8QBMtoSWXYCuGqYQ7Z2WZtxXSlFSAS9gPU9s_3eRfe5ph1sSb1W-v8s6EAsi7_aNWYW_mwayJZoxTjj77nsCEw2dU_DJsIPP_OjH6VLcqxPkyO_fTlqYTf_0PZA_T3byYlsv9J5WXhwD1Jt2jktjm4cr-Z0BhfvFXvtutLfeXpma4usd9XqkR1H9ggOJ3zW5uAoFK_fp_4jDzeU1snDFpWqPqpOn7_68KFF-nSqHXFnZisOQRziR86B71YCHuHDhBcWCdgGG7_34qAn4g4jK6vO1gtN32sCpHqTvwHQEySgqJKlpmYLzkdUE8eKlVs_2B1vaUVNVEZ-Ty6NLLL9VhJTdcfHEg1eFH0aDHu-9BmXnsPl8Y_apyABKgl1cy1lYXN0LTIwrQQ.m3u8"
 
-                },
 {
                     "type": "English HD",
                 "livelink":"https://29a808a6f797.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.100601066068.channel.3El72A87Csjt.m3u8"
