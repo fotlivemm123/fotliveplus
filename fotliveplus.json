@@ -38,49 +38,6 @@
 
 
 {
-           "league": "Premier League",
-            "date": "August 6",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/9879.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8650.png",
-            "teams" : "Fulham Vs Liverpool",
-            "hteam" : "Fulham",
-            "ateam" : "Liverpool",
-            "hotmat":"yes",
-"link":[
-                {
-                    "type": "SD 1",
-                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1659805580-0-0-3a0055b957039a90e8745dba101c339c"
-         
-                },
-                {
-                    "type": "VIETNAM SD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/chunklist.m3u8"
-
- },
-                {
-                    "type": "VIETNAM FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62ee4d7b9d4cdd001c698889/62ee4d7b9d4cdd001c698889.m3u8"
-},
-{
-                    "type": "CCTV",
-                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd3980.m3u8"
-         
-                },
-{
-                    "type": "1080 FHD",
-                "livelink":"https://hls1.yuanzhi.org.cn/live/H616510.m3u8?txSecret=9e8881c947dce2fca6aac216e5c6ddc8&txTime=62EF959C&_s=stream"
-   },
-
-{
-                    "type": "English HD",
-                "livelink":"https://29a808a6f797.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.100601066068.channel.3El72A87Csjt.m3u8"
-         
-                }
-
-            ]
-         },
-{
        "league": "Premier League",
             "date": "August 6",
             "time": "(8:30) PM",
