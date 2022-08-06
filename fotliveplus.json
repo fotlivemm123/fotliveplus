@@ -36,6 +36,29 @@
             ]
 },
 
+         },
+{
+           "league": "Ligue 1",
+            "date": "August 7",
+            "time": "live",
+            "himg" :  "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
+            "teams" : "Clermont Foot Vs PSG",
+            "hteam" : "Clermont Foot",
+            "ateam" : "PSG",
+            "hotmat":"yes",
+ "link":[
+                
+                {
+                    "type": "SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
+                },
+                {
+                    "type": "F HD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62eeb60f3bbe02001cf003c8/62eeb60f3bbe02001cf003c8.m3u8"
+                }
+            ]
+         },
 
          
 
@@ -65,30 +88,7 @@
                 "livelink":"https://livestream.socialstreaming.tv/live/62eeacdf631d9c001dd9e867/62eeacdf631d9c001dd9e867.m3u8"
                 }
             ]
-         },
-{
-           "league": "Ligue 1",
-            "date": "August 7",
-            "time": "(1:30) AM",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8311_small.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9847_small.png",
-            "teams" : "Clermont Foot Vs PSG",
-            "hteam" : "Clermont Foot",
-            "ateam" : "PSG",
-            "hotmat":"yes",
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "320 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
          }
+
+
 ]
