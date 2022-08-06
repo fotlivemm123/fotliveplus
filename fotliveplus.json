@@ -70,7 +70,18 @@
 {
                     "type": "1080 FHD",
                 "livelink":"https://hls1.yuanzhi.org.cn/live/H616510.m3u8?txSecret=9e8881c947dce2fca6aac216e5c6ddc8&txTime=62EF959C&_s=stream"
-   }
+   },
+{
+                    "type": "SD",
+                "livelink":"https://cdn1-sports.gxpeihuchuang.com/live/GvvRd9kM03.flv"
+         
+                },
+{
+                    "type": "English HD",
+                "livelink":"https://29a808a6f797.ap-south-1.playback.live-video.net/api/video/v1/ap-south-1.100601066068.channel.3El72A87Csjt.m3u8"
+         
+                }
+
             ]
          },
 {
