@@ -70,7 +70,13 @@
                     "type": "Dream HD",
                 "livelink":"https://hls1.yuanzhi.org.cn/live/H616518.m3u8?txSecret=973b2924e9bc1329c6e26c2f32fed557&txTime=62F119BA&_s=stream"
          
+                },
+{
+                    "type": "CCTV",
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd3988.m3u8"
+         
                 }
+
             ]
          }
 
