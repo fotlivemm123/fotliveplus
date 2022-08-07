@@ -81,12 +81,12 @@
                 "livelink":"https://179720687.global.cdnfastest.com/live/may11/chunklist.m3u8"
                 },
                 {
-                    "type": "FHD",
+                    "type": "Wifi user FHD",
                 "livelink":"https://livestream.socialstreaming.tv/live/62efd3780bdcd8001ccf1020/62efd3780bdcd8001ccf1020.m3u8"
                 },
                 {
-                    "type": "English",
-                "livelink":"0"
+                    "type": "Wifi user FHD",
+                "livelink":"http://jasidhjasdgas.azureedge.net/stream/NDY3OQ==/1080p.m3u8"
                 }
             ]
          }
