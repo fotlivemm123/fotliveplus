@@ -35,7 +35,29 @@
                 
             ]
 },
-
+{
+           "league": "Bundesliga",
+            "date": "August7",
+            "time": "live",
+            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10269.png",
+            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/178475.png",
+            "teams" : "VfBStuttgart Vs RB Leipzig",
+            "hteam" : "VfB Stuttgart",
+            "ateam" : "RB Leipzig",
+             
+"link":[
+                {
+                    "type": "HD",
+                "livelink":"https://craff23.s.llnwi.net/live/streamcnhd23842.m3u8"
+                },
+                {
+                    "type": "HD",
+                "livelink":"https://pull.xingliju.com/leisu/1117767142674335.m3u8?auth_key=1659895350-0-0-8652abddf3021aad6f6f205982fcf24d"
+                }
+                
+                    
+            ]
+         },
 
 
 {
