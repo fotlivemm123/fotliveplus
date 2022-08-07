@@ -47,6 +47,11 @@
             "ateam" : "Brighton",
              "hotmat":"yes",
 "link":[
+{
+                    "type": "SD",
+                "livelink":"https://cdn1-sports.gxpeihuchuang.com/live/omcWBhDG01.flv"
+         
+                },
                 {
                     "type": "VIETNAM SD",
                 "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1659899733~acl=/may1SD*~hmac=52f3190546205552015b43f1ae3d56d059f4d9c4e6021320f90670795f738bd2"
