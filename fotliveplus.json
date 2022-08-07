@@ -39,7 +39,7 @@
 {
            "league": "Premier League",
             "date": "August 7",
-            "time": "(7:30) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/10260.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10204.png",
             "teams" : "Man U Vs Brighton",
@@ -48,12 +48,12 @@
              "hotmat":"yes",
 "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "VIETNAM SD",
+                "livelink":"https://jq9sucdqmflivnt.vcdn.com.vn/may1SD/may1SD@456.m3u8?hdnts=exp=1659899733~acl=/may1SD*~hmac=52f3190546205552015b43f1ae3d56d059f4d9c4e6021320f90670795f738bd2"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62efa9936f8725001cdadbf3/62efa9936f8725001cdadbf3.m3u8"
                 },
                 {
                     "type": "320SD",
