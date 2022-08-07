@@ -68,8 +68,8 @@
          
                 },
 {
-                    "type": "Astro Sport FHD",
-                "livelink":"http://sxdwsds.azureedge.net/hls/astro/chunks.m3u8"
+                    "type": "360SD",
+                "livelink":"https://video-weaver.lax03.hls.live-video.net/v1/playlist/CpAFEmroYpEGeAHLaEJYepni35TPCT4InfY3OWvvBfnLK6b7oHC_loeVRyAsjlwvVHHxsinKwmeMfnPtvYDQE3KagkYe0AMNnPuQaTomJOLH5vSIYIcKRehitSHq2jxj1S4YmCA45aBVGjxPGhW3sPBXVJZr0IY9OTd08LqXOOx5fGWBiIesl81J89yHJm1nBzZ41JtjjxaVyhw_hGKeJZ49mQd7lxsrxhZZPiFez9evyW6wKN-ZinbwuUXllSMvAD0FG954Iil9E96TT0pAfftFv_VjzBuCa2mRkoPdGw-nap_d-MU8gCKhgqzJb62VZHR7brlYsLMu0aI5SOHKgm1vYYttLLCaCG2W7hahqErbPianC79cCRLi8W_TDmQV9Ruk3hlAt_GDmZReMAO2HqXb6NE8-lQ7Zxhe2lYNolkH5WR08LaQvUceHajBoL0clQhuU31hPesMLGuLDDZ2TcaMsI62uwKDgvr1YGXYoA6q8-XkxSrcK6XGPDrfyQkYpuX8mSGw-zVH19l_WPB0DB-nFfZ4PqajPIXZhgnkUFvzbA8af83zLLHxwgRAksX3FzSMYZdX4USiRQIKZEzzBa3-xVgUYgx_8Ur2GAFtZ67tv6K5RpliIXutaaD_PCZnll92kDvVnPY-mjZ1Qfj82quS4NvuJppJspdY0YAkDa8pWs1-nx0_wymjnBY0iQs44e6-D7yHgETQkfmmNR967uHk70OVP61_w6GYfX3hiqeCucKd4hcUm37wIsLNAoHBgqlDVNVFAfZ-KCvIijCRaa576BCEUF3vpNbW6i420WqmzJa-Ac42qqAw4FzGGnpmhtnOQXimjZKaz5jHnLHe5vtD7nd2VJuwJ-Q0wmsm4JnrR_MaDLsqkGF20t2qwt3yQyABKgl1cy1lYXN0LTEw5QI.m3u8"
          
                 },
                 {
@@ -80,6 +80,11 @@
 {
                     "type": "1080 FHD",
                 "livelink":"http://networkcd.azureedge.net/stream/NDY3OA==/1080p.m3u8"
+         
+                },
+{
+                    "type": "480 HD",
+                "livelink":"https://video-weaver.lax03.hls.live-video.net/v1/playlist/CpAF79IgYIysSAr0MwwOSU0zlrwI5zpEwxYayOWE25ABcFuP93YBpVDXGRfSgn3waCsPUTc2BS402U5oX_80p_Gc-MnVUHaJctxRSPDynFFnR7LpDy9MaWaZk3lMX6rRt6yYM2M_lYuFftZadH4o_o_wkV_2DM2vWcMjnhStLByPMfocAGYnj4jHwfl_gClDoVnxZ6cKjcbkaNq8f9628Lt_kD8VpDYkSZLmbPUZM9iIerZNG3Uer6KqnvqQScyw5p3E7XO-HhHq9qCah5VZBv4w3dFQX74qPqzb_o273DqhuRq8rAOkP9ROzHMa820i6oCyQ28ktbKaHmlqcYlg6dcyYrBrOO3QboMuX9Q_FHEW6H_YDI0RImh_NJqKGYtJUhdorvk3_3w3t5KY0UZjiVmWsYaVdCzkq2ua9dRBNpQnIhzPJCHsiMf1CBTSMxWn8TAvnTmAbDogvEMVN9ZjgxR0_J9GbL9SnW4z9JaX_oN2gMogHeUsiosDON4wyUq3IE03qy_qMSKtG28kFoA8-9TuF1kWgB8cTGV3pbRa8v2YlmI5LKLogMFBZG6Xh3a9haLJupCkaC-BJiI6cwMuupnxsTbR6SbOi1t4aRfkTtWLqb9Oift_3s9m8te7b_XIC_jz9vJYt0wsLhSngicmIgs9XM9lTm7nxhRBT2z345Dt9DAbFluJiobfcKtmazeKOu6pHCpJ2od1-nH3u8-WY74K7r8DbG-lECbsWKobo2KdlQSKukPGQqiZwxzahhpr04FmTJ-wlypM0jBlVQ3SINtv0-dlH0G4A8BRgI08mQsOn6wmfY8fTLBkyWOTZLSnbIu4bfgQl2fHI-gzJeyINk6OQ8a3frLjAsBjP_LlYsDod-EaDFd0wA0JHLkdLqVJPiABKgl1cy1lYXN0LTEw5QI.m3u8"
          
                 }
             ]
@@ -102,11 +107,8 @@
                 {
                     "type": "VIETNAM FHD",
                 "livelink":"https://livestream.socialstreaming.tv/live/62efab852bb9ba001c727d9b/62efab852bb9ba001c727d9b.m3u8"
-                },
-                {
-                    "type": "320SD",
-                "livelink":"0"
                 }
+                
             ]
          },
 
