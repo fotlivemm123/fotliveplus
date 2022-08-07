@@ -134,49 +134,6 @@
                 "livelink":"0"
                 }
             ]
-         },
-{
-           "league": "V-League",
-            "date": "Now",
-            "time": "live",
-            "himg": "https://api.sofascore.app/api/v1/team/33129/image",
-            "aimg": "https://api.sofascore.app/api/v1/team/33030/image",
-            "teams" : "Sông Lam Nghệ An Vs Thanh Hóa",
-            "hteam" : "Sông Lam Nghệ An",
-            "ateam" : "Thanh Hóa",
-         "hotmat":"yes",
-            "link":[
-                {
-                    "type": "VIETNAM SD",
-                "livelink":"https://179746877.global.cdnfastest.com//live/1830285b2124580452fb69b52e96411c76b/chunklist.m3u8"
-                },
-                {
-                    "type": "Vietnam FHD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62ef9258919bc6001c176bea/62ef9258919bc6001c176bea.m3u8"
-                }
-                
-            ]
-         },
-{
-           "league": "J.League",
-            "date": "August 7",
-            "time": "live",
-            "himg": "https://api.sofascore.app/api/v1/team/5127/image",
-            "aimg": "https://api.sofascore.app/api/v1/team/3137/image",
-            "teams" : "Kawasaki Frontale Vs Yokohama F. Marinos",
-            "hteam" : "Kawasaki Frontale",
-            "ateam" : "Yokohama F. Marinos",
-         "hotmat":"yes",
-            "link":[
-                
-                {
-                    "type": "480HD",
-                "livelink":"https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may2SD/chunklist.m3u8"
-                },
-                {
-                    "type": "Vietnam FHD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62ef8733919bc6001c176be6/62ef8733919bc6001c176be6.m3u8"
-                }
-            ]
          }
+
 ]
