@@ -56,8 +56,8 @@
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62efa9936f8725001cdadbf3/62efa9936f8725001cdadbf3.m3u8"
                 },
                 {
-                    "type": "320SD",
-                "livelink":"0"
+                    "type": "English FHD",
+                "livelink":"http://networkcd.azureedge.net/stream/NDY3OA==/1080p.m3u8"
                 }
             ]
          },
@@ -73,12 +73,12 @@
              "hotmat":"no",
 "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "VIETNAM SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/may9/chunklist.m3u8"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "VIETNAM FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62efab852bb9ba001c727d9b/62efab852bb9ba001c727d9b.m3u8"
                 },
                 {
                     "type": "320SD",
