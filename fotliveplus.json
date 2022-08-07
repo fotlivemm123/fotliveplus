@@ -80,6 +80,11 @@
                     "type": "SD",
                 "livelink":"https://179720687.global.cdnfastest.com/live/may11/chunklist.m3u8"
                 },
+{
+                    "type": "720 HD",
+                "livelink":"http://makeitway.azureedge.net/hls/skysports/chunks.m3u8"
+         
+                },
                 {
                     "type": "Wifi user FHD",
                 "livelink":"https://livestream.socialstreaming.tv/live/62efd3780bdcd8001ccf1020/62efd3780bdcd8001ccf1020.m3u8"
