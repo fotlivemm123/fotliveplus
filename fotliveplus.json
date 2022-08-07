@@ -49,6 +49,11 @@
             "ateam" : "Man City",
              "hotmat":"yes",
 "link":[
+{
+                    "type": "SD",
+                "livelink":"https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1659906920-0-0-84251d69a92ec703d9d76467e38323fb"
+         
+                },
                 {
                     "type": "SD",
                 "livelink":"https://179720687.global.cdnfastest.com/live/may11/chunklist.m3u8"
