@@ -68,7 +68,7 @@
 {
            "league": "Premier League",
             "date": "August 7",
-            "time": "(10:00) PM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8456.png",
             "teams" : "West Ham Vs Man City",
@@ -77,15 +77,15 @@
              "hotmat":"yes",
 "link":[
                 {
-                    "type": "720 HD",
-                "livelink":"0"
+                    "type": "SD",
+                "livelink":"https://179720687.global.cdnfastest.com/live/may11/chunklist.m3u8"
                 },
                 {
-                    "type": "480HD",
-                "livelink":"0"
+                    "type": "FHD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62efd3780bdcd8001ccf1020/62efd3780bdcd8001ccf1020.m3u8"
                 },
                 {
-                    "type": "320SD",
+                    "type": "English",
                 "livelink":"0"
                 }
             ]
