@@ -55,6 +55,13 @@
                     "type": "VIETNAM FHD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62efa9936f8725001cdadbf3/62efa9936f8725001cdadbf3.m3u8"
                 },
+           
+   
+{
+                    "type": "FHD",
+                "livelink":"https://qtv.vncdn.vn/qtvlive/tv3live.m3u8"
+         
+                },
 {
                     "type": "Astro Sport FHD",
                 "livelink":"http://sxdwsds.azureedge.net/hls/astro/chunks.m3u8"
