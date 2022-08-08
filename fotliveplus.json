@@ -35,46 +35,7 @@
                 
             ]
 },
-{
-           "league": "Coppa Intaly",
-            "date": "Now",
-            "time": "live",
-            "himg": "https://api.sofascore.app/api/v1/team/2706/image",
-            "aimg": "https://api.sofascore.app/api/v1/team/2793/image",
-            "teams" : "0 Vs 0",
-            "hteam" : "Modena",
-            "ateam" : "Sassuolo",
-         "hotmat":"yes",
-            "link":[
-                
-                {
-                    "type": "480HD",
-                "livelink":"https://livestream.socialstreaming.tv/live/62f12929d41d5b001c0e2ef2/62f12929d41d5b001c0e2ef2.m3u8"
-                
-                
-                }
-            ]
-         },
-{
-           "league": "Coppa Italia",
-            "date": "Now",
-            "time": "live",
-            "himg": "https://reddito.soccerstreamlinks.com/images/teams/2713.png",
-            "aimg": "https://reddito.soccerstreamlinks.com/images/teams/2759.png",
-            "teams" : "0 Vs 0",
-            "hteam" : "GENOA",
-            "ateam" : "BENEVENTO",
-         "hotmat":"yes",
-            "link":[
-                
-{
-                    "type": "F HD",
-                "livelink":"https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8"
-         
-                }
-                
-            ]
-         },
+
 {
            "league": "UEFA Super Cup Final",
             "date": "August 11",
