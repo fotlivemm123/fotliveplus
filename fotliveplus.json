@@ -36,6 +36,26 @@
             ]
 },
 {
+           "league": "Coppa Intaly",
+            "date": "Now",
+            "time": "live",
+            "himg": "https://api.sofascore.app/api/v1/team/2706/image",
+            "aimg": "https://api.sofascore.app/api/v1/team/2793/image",
+            "teams" : "0 Vs 0",
+            "hteam" : "Modena",
+            "ateam" : "Sassuolo",
+         "hotmat":"yes",
+            "link":[
+                
+                {
+                    "type": "480HD",
+                "livelink":"https://livestream.socialstreaming.tv/live/62f12929d41d5b001c0e2ef2/62f12929d41d5b001c0e2ef2.m3u8"
+                
+                
+                }
+            ]
+         },
+{
            "league": "Coppa Italia",
             "date": "Now",
             "time": "live",
@@ -46,10 +66,7 @@
             "ateam" : "BENEVENTO",
          "hotmat":"yes",
             "link":[
-                {
-                    "type": "Auto",
-                "livelink":"http://27assia.com/hls/72.m3u8?md5=SStl0984JovnhNHADS4g0A&expires=1659978043"
-                },
+                
 {
                     "type": "F HD",
                 "livelink":"https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8"
