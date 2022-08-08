@@ -36,6 +36,24 @@
             ]
 },
 {
+           "league": "Coppa Italia",
+            "date": "Now",
+            "time": "live",
+            "himg": "https://reddito.soccerstreamlinks.com/images/teams/2713.png",
+            "aimg": "https://reddito.soccerstreamlinks.com/images/teams/2759.png",
+            "teams" : "0 Vs 0",
+            "hteam" : "GENOA",
+            "ateam" : "BENEVENTO",
+         "hotmat":"yes",
+            "link":[
+                {
+                    "type": "Auto",
+                "livelink":"http://27assia.com/hls/72.m3u8?md5=SStl0984JovnhNHADS4g0A&expires=1659978043"
+                }
+                
+            ]
+         },
+{
            "league": "UEFA Super Cup Final",
             "date": "August 11",
             "time": "(1:30) AM",
