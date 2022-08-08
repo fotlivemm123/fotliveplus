@@ -56,7 +56,7 @@
  },
                 {
                     "type": "wait",
-                "livelink":"0"
+                "livelink":"https://hls1.yuanzhi.org.cn/live/L8237910.m3u8?txSecret=ef63ae8842cdccb9ff3a8609d9ddcecb&txTime=62F29E53&_s=stream"
                 }
             ]
          },
