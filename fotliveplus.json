@@ -49,6 +49,11 @@
                 {
                     "type": "Auto",
                 "livelink":"http://27assia.com/hls/72.m3u8?md5=SStl0984JovnhNHADS4g0A&expires=1659978043"
+                },
+{
+                    "type": "F HD",
+                "livelink":"https://livestream-2.socialstreaming.tv/live/62f128be4a14e7001cc92c18/62f128be4a14e7001cc92c18.m3u8"
+         
                 }
                 
             ]
