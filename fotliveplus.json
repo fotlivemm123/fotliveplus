@@ -36,23 +36,7 @@
             ]
 },
 
-   {
-           "league": "U19 Friendly Games",
-            "date": "August 9",
-            "time": "live",
-            "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/5823.png",
-            "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8307.png",
-            "teams" : "Malaysia Vs Myanmar",
-            "hteam" : "Malaysia",
-            "ateam" : "Myanmar",
-            "hotmat":"no",
- "link":[
-                {
-                    "type": "480 SD",
-                "livelink":"https://179235864.global.cdnfastest.com//live/18399715b0af17e423a8e406afb2a451b76/chunklist.m3u8"
-                }
-            ]
-         }, 
+   
 {
            "league": "UEFA Super Cup Final",
             "date": "August 11",
