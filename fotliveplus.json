@@ -1,30 +1,145 @@
 [
-
-
-   
 {
-           "league": "UEFA Super",
-            "date": "August 11",
-            "time": "(1:30) AM",
-            "himg": "https://i.postimg.cc/8cZgZw34/IMG-20220804-004522-407.jpg",
-            "aimg": "https://i.postimg.cc/8cZgZw34/IMG-20220804-004522-407.jpg",
-            "teams" : "Copy From Fot Live ",
-            "hteam" : "Real",
-            "ateam" : "Frank",
-            "hotmat":"yes",
-"link":[
-                {
-                    "type": "480 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "360 SD",
-                "livelink":"0"
-                },
-                {
-                    "type": "720 HD",
-                "livelink":"0"
-                }
-            ]
-         }
+"channelName":"MUTV",
+"link": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8",
+"img":"https://image.roku.com/developer_channels/prod/88e508b20c4ec250fe8142c0f02f27d98958d9247f75710a22343e573ffe9c19.png"
+},
+{
+"channelName":"mrtv4",
+"link": "https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+"img":"http://static.pyoneplay.com/static/live/li_bg_1571902845.jpg"
+},
+{
+"channelName":"channel7",
+"link": "https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+"img":"http://static.pyoneplay.com/static/live/li_bg_1571902868.jpg"
+},
+{
+"channelName":"Channel K",
+"link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/89836_channel k.jpg"
+},
+{
+"channelName":"MNTV",
+"link": "http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/47480_mntv logo.jpg"
+},
+{
+"channelName":"Channel Me",
+"link": "https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/80960_channel me hd.jpg"
+},
+{
+"channelName":"Channel K",
+"link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/89836_channel k.jpg"
+},
+{
+"channelName":"mahar",
+"link": "https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8",
+"img":"https://play-lh.googleusercontent.com/OoZ1xnEujdqW7jSXjZIh8hx-VBowD4mxp6vjCwiaSnWutGZQMJryQMvZkStyOUhelVk=h500"
+},
+{
+"channelName":"Mahar Bawdi",
+"link": "https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8",
+"img":"http://static.pyoneplay.com/static/live/li_bg_1557296214.jpg"
+},
+{
+"channelName":"BEIN Sports 1",
+"link": "http://93.152.174.144:4000/play/bein1ar/index.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa6RNerKH5LqulRrqTtbakBVFHVColJ7kgLw&usqp=CAU"
+},
+
+{
+"channelName":"Bein Sport2",
+"link": "http://93.152.174.144:4000/play/bein2fr/index.m3u8",
+"img":"https://static.wikia.nocookie.net/logopedia/images/b/bf/BS2.svg/revision/latest/scale-to-width-down/250?cb=20200107203903"
+},
+{
+"channelName":"Bein Sport3",
+"link": "http://93.152.174.144:4000/play/bein3ar/index.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCkkv5vaehDr3i8l-xmokxXU3zCul48rTVbg&usqp=CAU"
+},
+{
+"channelName":"Bein Sport4",
+"link": "https://unifi-live05.secureswiftcontent.com/UnifiHD/live13.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7seB0GBvqmsul6C_sfm_UqNSJtxIRutXBIxopDt2gGCt2cvjUoYuuwPNZ&s=10"
+},
+{
+"channelName":"FITE",
+"link": "https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8",
+"img":"https://www.fite.tv/static/img/home_fite_tw_bg_02.jpg"
+},
+{
+"channelName":"Fightsport",
+"link": "https://shls-fight-sports-ak.akamaized.net:443/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index_1.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg203DmMHGih6jksCHhZCG4wqBPIWzACsqdA&usqp=CAU"
+},
+{
+"channelName":"Tennis",
+"link": "https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiyCDCmmO1V87IRk6-p9dINmwDuTmqcKyAcg&usqp=CAU"
+},
+{
+"channelName":"FIght Sport",
+"link": "https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTZA7AGKLVtENn45qStuzKz0Z4Tmnq-NUokQ&usqp=CAU"
+},
+
+{
+"channelName":"Cinemax",
+"link": "http://vips-livecdn.fptplay.net:80/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
+"img":"https://www.kindpng.com/picc/m/287-2873744_cinemax-logo-png-transparent-png.png"
+},
+{
+"channelName":"MVM",
+"link": "https://edge6a.v2h-cdn.com/appt7/MVM.stream_720p/plalist.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTY7OsIsec7dHx1sc6YJmY9Mb_yJOKHrOhyQ&usqp=CAU"
+},
+{
+"channelName":"Star Movies HD",
+"link": "http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8",
+"img":"https://content.osn.com/bob/745x419/STM.jpg"
+},
+{
+"channelName":"Star World HD",
+"link": "http://221.120.204.4/star-world-LOCKLE/index.m3u8",
+"img":"https://ewsat.com/img/STAR_WORLD.png"
+},
+{
+"channelName":"Sony Ten 1",
+"link": "http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/16622",
+"img":"https://static.wikia.nocookie.net/logopedia/images/2/24/Sony_Ten_1.jpg/revision/latest?cb=20190322143617"
+},
+{
+"channelName":"Sony Ten 2",
+"link": "http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/16621",
+"img":"https://static.wikia.nocookie.net/logopedia/images/6/60/Sony_Ten_2.jpg/revision/latest?cb=20190322143848"
+},
+{
+"channelName":"Sony Ten 3",
+"link": "http://quality-restream.com:8080/Unplugged83/F75DCxx397DMKop5388mM/166191",
+"img":"https://static.wikia.nocookie.net/logopedia/images/6/6c/Sony_Ten_3.png/revision/latest?cb=20190322144135"
+},
+{
+"channelName":"BBC News",
+"link": "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/35350_BBC News.jpg"
+},
+{
+"channelName":"CINEMAX",
+"link": "http://vips-livecdn.fptplay.net:80/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/27270_Cinemax.jpg"
+},
+{
+"channelName":"BT Sport 1 HD",
+"link": "https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1539.1647384977.png",
+"img":"http://thutalive.webstarterz.com/thutalive/images/channel/46192_BT 1 HD.png"
+},
+{
+"channelName":"BT Sport 2 HD",
+"link": "http://93.152.174.144:4000/play/btsport2/index.m3u8",
+"img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd22s--9GPbOlnb5Jq2KJ-6n7o4wPhcTU5gA&usqp=CAU"
+}
+
 ]
