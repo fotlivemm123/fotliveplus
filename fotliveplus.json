@@ -40,7 +40,7 @@
 {
            "league": "UEFA Super Cup Final",
             "date": "August 11",
-            "time": "(1:30) AM",
+            "time": "live",
             "himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8633.png",
             "aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9810.png",
             "teams" : "Copy From Fot Live ",
@@ -50,15 +50,15 @@
 "link":[
                 {
                     "type": "480 SD",
-                "livelink":"0"
+                "livelink":"https://segumpalnenen.herokuapp.com/index.m3u8?id=bbtsp1"
                 },
                 {
                     "type": "360 SD",
-                "livelink":"0"
+                "livelink":"https://7dd072098c89.us-east-1.playback.live-video.net/api/video/v1/us-east-1.284058136824.channel.NIu31oy6vSPs.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8"
                 },
                 {
                     "type": "720 HD",
-                "livelink":"0"
+                "livelink":"https://cdn1-sports.gxpeihuchuang.com/live/omcWBhDG01.flv"
                 }
             ]
          }
